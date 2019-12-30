@@ -1,0 +1,42 @@
+.test{
+	border: 2px solid #66CC99;
+	display: block;
+	border-radius: 15px;
+	padding: 5px;
+	margin: 0 auto;
+	max-width: 600px;
+}
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 100;
+}
+.test textarea{
+	border: none;
+	width: 100%;
+	min-height: 200px;
+	background: #F6F6F6;
+	outline: none;
+	display: block;
+	margin: 0 auto;
+}
+.button{
+	width: 100%;
+	display: block;
+	background: #66CC99;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #fff;
+	margin: 5px 0 5px;
+
+}
+.test a{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.test p{
+	color: #66CC99;
+	font-style: italic;
+	font-weight: bold;
+}
